@@ -1,12 +1,16 @@
 <div align="center">
 
-  <!-- Animated typing header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Larissa+%F0%9F%91%8B;Full+Stack+Developer;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3436,50:636e72,100:b2bec3&height=200&section=header&text=Larissa&fontSize=50&fontColor=dfe6e9&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Project%20Manager&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=DFE6E9&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=30&lines=console.log(%22oi%2C+tudo+bem%3F+%E2%98%95%22)" alt="Typing SVG" />
 
   <br/>
 
-  <!-- Profile views badge -->
-  <img src="https://komarev.com/ghpvc/?username=Lari-Cafe&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Lari-Cafe&style=flat-square&color=636e72&label=visitors" alt="Profile Views"/>
 
 </div>
 
@@ -18,7 +22,7 @@
 class Larissa:
     name       = "Larissa"
     username   = "Lari-Cafe"
-    role       = "Full Stack Developer"
+    role       = ["Full Stack Developer", "Project Manager"]
     motto      = "Always learning something new 🚀"
     
     languages  = ["Python", "JavaScript", "TypeScript", "SQL"]
@@ -55,10 +59,17 @@ me.say_hi()
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔧 Tools
+### 🔧 Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📋 Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0175C2?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
 
@@ -66,14 +77,22 @@ me.say_hi()
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lari-Cafe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lari-Cafe&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lari-Cafe&theme=tokyo-night&hide_border=true&area=true&color=b2bec3&line=dfe6e9&point=ffffff" alt="Activity Graph" width="100%"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lari-Cafe&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lari-Cafe&theme=tokyonight"/>
+  &nbsp;
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lari-Cafe&theme=tokyonight"/>
+  &nbsp;
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lari-Cafe&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lari-Cafe&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -81,6 +100,7 @@ me.say_hi()
 ## 🌱 Currently
 
 - 🔭 Working on **Full Stack projects**
+- 📋 Leading teams as a **Project Manager** (Agile/Scrum)
 - 📚 Always learning something new
 - 💡 Passionate about building beautiful and functional interfaces
 - 🤝 Open to **collaborations and new opportunities**
@@ -92,11 +112,15 @@ me.say_hi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lari--Cafe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lari-Cafe)
+&nbsp;
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-laripkmvlr-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/laripkmvlr)
+&nbsp;
+[![Links](https://img.shields.io/badge/🔗%20Meus%20Links-guns.lol%2Fleury-2d3436?style=for-the-badge)](https://guns.lol/leury)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3436,50:636e72,100:b2bec3&height=100&section=footer" />
 </div>
