@@ -8,7 +8,7 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Lari-Cafe&style=flat-square&color=2dd4bf&label=visitors" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Lari-Cafe&style=flat-square&color=2dd4bf&label=visitors&base=639" alt="Profile Views"/>
 
 </div>
 
@@ -75,23 +75,7 @@ me.say_hi()
 
 </div>
 
-<br/>
 
-<div align="center">
-
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lari-Cafe&theme=github_dark"/>
-  &nbsp;
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lari-Cafe&theme=github_dark"/>
-  &nbsp;
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lari-Cafe&theme=github_dark"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lari-Cafe&theme=dark&hide_border=true&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf" alt="GitHub Streak"/>
-</div>
 
 ---
 
@@ -109,11 +93,19 @@ me.say_hi()
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Quotes
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</div>
+> *"You're gonna carry that weight."*
+> <br/>
+> **— Cowboy Bebop** 🚀
+> 
+> *"A lesson without pain is meaningless."*
+> <br/>
+> **— Fullmetal Alchemist: Brotherhood** ⚗️
+> 
+> *"I mustn't run away."*
+> <br/>
+> **— Neon Genesis Evangelion** 🤖
 
 ---
 
