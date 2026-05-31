@@ -79,20 +79,6 @@ me.say_hi()
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lari-Cafe/Lari-Cafe/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lari-Cafe/Lari-Cafe/output/github-snake.svg" />
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Lari-Cafe/Lari-Cafe/output/github-snake.svg" />
-  </picture>
-</div>
-
-<!-- ⚠️ Para a snake funcionar, adicione o arquivo .github/workflows/snake.yml no seu repositório Lari-Cafe/Lari-Cafe -->
-
----
-
 ## 💬 Quotes
 
 > *"You're gonna carry that weight."*
